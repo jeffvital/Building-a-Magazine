@@ -89,6 +89,10 @@ main {
   content: ' "';
 }
 
+.text-with-images {
+  display: grid;
+}
+
 .hero {
   grid-column: 1 / -1;
   position: relative;
